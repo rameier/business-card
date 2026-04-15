@@ -1,0 +1,21 @@
+{
+  "business_card": {
+    "name": "Your Name",
+    "title": "Job Title",
+    "company": "Company Name",
+    "email": "you@example.com",
+    "phone": "+1 234 567 8900",
+    "website": "https://example.com",
+    "linkedin": "linkedin.com/in/yourprofile"
+  },
+  "apple_credentials": {
+    "passTypeIdentifier": "pass.com.example.businesscard",
+    "teamIdentifier": "XXXXXXXXXX",
+    "serialNumber": "001"
+  },
+  "style": {
+    "backgroundColor": "rgb(60, 65, 76)",
+    "foregroundColor": "rgb(255, 255, 255)",
+    "labelColor": "rgb(180, 180, 180)"
+  }
+}
