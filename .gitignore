@@ -6,5 +6,9 @@ certificates/*.pem
 certificates/*.p12
 certificates/*.cer
 
+# Python
+__pycache__/
+*.pyc
+
 # macOS metadata
 .DS_Store
